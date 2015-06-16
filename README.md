@@ -15,7 +15,6 @@ To be Updated
 **Example**
 ```html
 
-});
 ```
 
 ## License ##
