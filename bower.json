@@ -2,7 +2,7 @@
 	"name": "sumo-datepicker",
 	"description": "jQuery datepicker",
 	"version": "1.0.0",
-	"main": "jquery.sumo-datepicker.min.js",
+	"main": "js/jquery.sumo-datepicker.min.js",
 	"license": "MIT",
 	"authors": [
         {
