@@ -1,0 +1,16 @@
+{
+	"name": "sumo-datepicker",
+	"description": "jQuery datepicker",
+	"version": "1.0.0",
+	"main": "jquery.floodling.min.js",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Hyubs Ursua"
+        }
+    ],
+    "homepage": "https://github.com/hyubs/floodling",
+    "dependencies": {
+        "jquery": ">= 1.9.0"
+    }
+}
