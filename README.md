@@ -26,4 +26,4 @@ To be Updated
 
 *	[dheknico](https://github.com/dheknico)
 * 	Rupert Cabrera
-*	Think Sumo Creative Media Inc.
+*	[Think Sumo Creative Media Inc.](http://sumofy.me/)
